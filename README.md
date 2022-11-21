@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @fkryadr
+- 👋 Hi, I’m Krii
 - 👀 I’m interested in . Code
-- 🌱 I’m currently learning . PHP, Python
-- 💞️ I’m looking to collaborate on . 
-- 📫 How to reach me ...
+- 🌱 I’m keep learning everyday
 
 <!---
 fkryadr/fkryadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
